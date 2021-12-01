@@ -1,4 +1,11 @@
+body{
+    background-color:blanchedalmond;
+    
+}
 
+.name{
+    margin-left: 40px;
+}
 
 .img-responsive{
     position: absolute;
